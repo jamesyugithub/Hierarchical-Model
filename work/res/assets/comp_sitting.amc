@@ -1,0 +1,33 @@
+:FULLY-SPECIFIED
+:DEGREES
+1
+root 17 9 -6 -127 -85 100
+lowerback 40 2 -1
+upperback 14 0.6 3
+thorax -3 -0.8 4
+lowerneck -16 6 -4
+upperneck 3 10 -5
+head 4 4 -0.05
+rclavicle 0 0
+rhumerus 3 22 -72
+rradius 74
+rwrist 5.67817
+rhand -9 14
+rfingers 7
+rthumb 16 -14
+lclavicle 0 0
+lhumerus 1 -16 87
+lradius 69
+lwrist -22
+lhand -16 38
+lfingers 7
+lthumb 9 67
+rfemur -62 -10 13
+rtibia 72
+rfoot 19 -1
+rtoes 19
+lfemur -61 10 -15
+ltibia 72
+lfoot 21 -3
+ltoes 23
+2

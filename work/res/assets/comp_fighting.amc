@@ -1,0 +1,33 @@
+:FULLY-SPECIFIED
+:DEGREES
+1
+root 0 0 0 0 0 0
+lowerback 30 0 0
+upperback 35 0 0
+thorax -10 0 0
+lowerneck -20 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 30 30 0
+rhumerus 40 20 0
+rradius 30
+rwrist 0
+rhand 0 0 
+rfingers 0
+rthumb 0 0
+lclavicle 40 0
+lhumerus -30 -20 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur -60 0 0
+rtibia 150
+rfoot 0 0
+rtoes 0
+lfemur 0 30 60
+ltibia 30
+lfoot 0 0
+ltoes 0
+2
