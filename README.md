@@ -1,4 +1,4 @@
-# CGRA OpenGL Base Project
+# A Hierarchical Model Demonstration
 
 # Requirements
 
